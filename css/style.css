@@ -133,6 +133,7 @@ section.banner button {
 	padding: 10px 20px 10px 20px ;
 }
 section.rt-post {
+
 	background: #edf4fa;
 	padding: 5vw 2vw 1vw 2vw;
 	margin: 5vw 0 5vw 0;
@@ -147,6 +148,7 @@ section.rt-post ul li {
 	background: white;
 	margin: 2vw 0.5vw 2vw 0.5vw;
 	padding: 1.5vw;
+	border-radius: 5px;
 }
 section.rt-post ul li h3 {
 	font-size: 1.5rem;
@@ -156,6 +158,44 @@ section.rt-post ul li h3 {
 section.rt-post ul li p {
 	margin: 2.5vw 0 2.5vw 0;
 }
+section.ft-works {
+	margin: 5vw 0 5vw 0;
+}
+section.ft-works h2 {
+	font-size: 1.8rem;
+}
+section.ft-works ul {
+	display: flex;
+}
+section.ft-works ul li {
+	margin: 5vw 5vw 5vw 0;
+}
+section.ft-works ul li img {
+	width: 17rem;
+}
+section.ft-works ul li h3 {
+	font-weight: bold;
+	font-size: 1.5rem;
+	color: #21243D;
+	margin: 2vw 0 0 0 ;
+}
+section.ft-works ul li p {
+	margin: 1.8vw 0 1.8vw 0;
+}
+section.ft-works ul li p span {
+	background: #142850;
+	color: white;
+	font-weight: bold;
+	border-radius: 20px;
+	padding: 2px 10px 2px 10px ;
+	margin: 0 30px 0 0;
+}
+section.ft-works ul li p strong {
+	color: #8695A4;
+}
+
+
+
 
 /*==========================================================================
                                     FOOTER
